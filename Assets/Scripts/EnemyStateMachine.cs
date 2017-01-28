@@ -87,11 +87,11 @@ public class EnemyStateMachine : MonoBehaviour {
 		actionStarted = true;
 
 		//animate the enemy
-		Vector3 heroPosition = new Vector3(HeroToAttack.transform.position);
-		while (MoveTowardsEnemy (heroPosition))
-		{
-			yield return null;
-		}
+//		Vector3 heroPosition = new Vector3(HeroToAttack.transform.position);
+//		while (MoveTowardsEnemy (heroPosition))
+//		{
+//			yield return null;
+//		}
 
 
 		//wait a bit
@@ -111,9 +111,9 @@ public class EnemyStateMachine : MonoBehaviour {
 		currentState = TurnState.PROCESSING;
 	}
 
-	private bool MoveTowardsEnemy (Vector3 target)
-	{
-		
-	}
+//	private bool MoveTowardsEnemy (Vector3 target)
+//	{
+//		
+//	}
 
 }

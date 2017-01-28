@@ -19,3 +19,24 @@
 /Users/nicolas/Documents/Unity/RPG Test/Temp/bin/Debug/Assembly-CSharp.dll
 /Users/nicolas/Documents/Unity/RPG Test/obj/Debug/Assembly-CSharp.dll
 /Users/nicolas/Documents/Unity/RPG Test/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/nicolas/Documents/Unity/jigyo/obj/Debug/Assembly-CSharp.dll
+/Users/nicolas/Documents/Unity/jigyo/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/UnityEngine.dll
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/UnityEditor.dll
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/Mono.Cecil.dll
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/Unity.DataContract.dll
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/nicolas/Documents/Unity/jigyo/Temp/bin/Debug/Assembly-CSharp.dll
